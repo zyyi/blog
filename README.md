@@ -1,2 +1,2 @@
 # blog
-express+xtpl，xtemplate
+express+xtpl，xtemplate + express-session
